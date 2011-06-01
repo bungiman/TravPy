@@ -1,5 +1,5 @@
-import travpy.web.write
-import travpy.gamedb
+#import travpy.web.write
+#import travpy.gamedb
 
 class TravianGame:
 
